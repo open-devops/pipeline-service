@@ -1,7 +1,10 @@
-# Pipeline Management Portal Back-end Service
+# Pipeline Service Gateway Repository
 ## Include
-- Organizatio Service
+- Organization Service
 - Role Service
 - Account Service
 - Product & Pipeline Server
 - Permission Service
+- Configuration Service
+- Service Discovery Service
+- API Gateway Service
