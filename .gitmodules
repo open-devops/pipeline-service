@@ -1,0 +1,21 @@
+[submodule "OrganizationService"]
+	path = OrganizationService
+	url = https://github.com/open-devops/OrganizationService
+[submodule "RoleService"]
+	path = RoleService
+	url = https://github.com/open-devops/RoleService
+[submodule "AccountService"]
+	path = AccountService
+	url = https://github.com/open-devops/AccountService
+[submodule "ProductService"]
+	path = ProductService
+	url = https://github.com/open-devops/ProductService
+[submodule "PermissionService"]
+	path = PermissionService
+	url = https://github.com/open-devops/PermissionService
+[submodule "APIGatewayService"]
+	path = APIGatewayService
+	url = https://github.com/open-devops/APIGatewayService
+[submodule "ServiceManagementService"]
+	path = ServiceManagementService
+	url = https://github.com/open-devops/ServiceManagementService
