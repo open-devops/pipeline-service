@@ -19,3 +19,6 @@
 [submodule "ServiceManagementService"]
 	path = ServiceManagementService
 	url = https://github.com/open-devops/ServiceManagementService
+[submodule "ConfigService"]
+	path = ConfigService
+	url = https://github.com/open-devops/ConfigService
